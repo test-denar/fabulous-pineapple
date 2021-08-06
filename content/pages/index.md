@@ -111,6 +111,10 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/m axresdefault.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 ---
